@@ -1,0 +1,24 @@
+{
+  "name": "sencajs-sample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mynamekse/senecajs-sample.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mynamekse/senecajs-sample/issues"
+  },
+  "homepage": "https://github.com/mynamekse/senecajs-sample#readme",
+  "dependencies": {
+    "seneca": "^3.3.0",
+    "seneca-entity": "^2.0.0"
+  }
+}
